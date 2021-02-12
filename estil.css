@@ -1,0 +1,94 @@
+.inicial{
+  position: absolute;
+  background-color: #CCEDFF; 
+  top: 20px;
+  right: 310px;
+  height: 30px;
+  width: 650px;
+  border-radius: 10px;
+}
+.inicial:hover{
+	display: block;
+	background-color:  white;
+}
+.librerias{
+  position: absolute;
+  top: 5px;
+  left: -620px;
+  height: 30px;
+  width: 1340px;
+  border-radius: 10px;
+  color: black;
+  text-decoration: none;
+}
+.libreriaa{
+	position: absolute;
+	top: 1100px;
+	left:620px;
+}
+.inicial2{
+  color: black;
+  text-decoration: none;
+}
+.funciones{
+  position: absolute;
+  top: 5px;
+  left: 120px;
+  border-radius: 10px;
+  color: black;
+  text-decoration: none;
+}
+.funcioness{
+	position: absolute;
+	top: 1660px;
+	left:620px;
+}
+.inicial3{
+  position: absolute;
+  color: black;
+  text-decoration: none;
+  left: 650px;
+}
+.variables{
+  position: absolute;
+  top: 2000px;
+  left: 600px;
+  border-radius: 10px;
+  color: black;
+}
+.main{
+  position: absolute;
+  top: 5px;
+  left: 230px;
+  border-radius: 10px;
+  color: black;
+  text-decoration: none;
+}
+.inicial4{
+  color: black;
+  text-decoration: none;
+}
+.inicial5{
+  color: black;
+  text-decoration: none;
+}
+.inicial6{
+  color: black;
+  text-decoration: none;
+}
+.comandos{
+  position: absolute;
+  top: 5px;
+  left: 390px;
+  border-radius: 10px;
+  color: black;
+  text-decoration: none;
+ }
+.simbolos{
+  position: absolute;
+  top: 5px;
+  left: 500px;
+  border-radius: 10px;
+  color: black;
+  text-decoration: none;
+}
